@@ -1,15 +1,36 @@
-# ℹ️ About
-- 👋 Hi, I’m @joscasvaz
-- 👀 I’m interested in growing up as software developer to start my carreer
-- 🌱 I’m currently learning some fullstack development while finishing my university degree
-- 💞️ I’m looking to collaborate on cool trendy proyects
+# 👋🏻 ¡Hola! Bienvenido a mi GitHub
+![Encabezado](https://pbs.twimg.com/profile_banners/1380478573341982720/1617968218/600x200)
+- 👦🏻 Desde pequeño trasteando con los ordenadores
+- 👨🏻‍💻 Actualmente estudiando Ingeniería del Software
+- 🎓 Universidad de Sevilla
 
-## 📫 Contact
-- 👔 [LinkedIn](https://twitter.com/joscasvaz)
+## 🔧 Conocimientos
+### Backend
+- ☕ Java ☆☆☆☆
+- 🐍 Python ☆☆☆☆
+- 🟠 Linux Shell ☆☆☆☆
+- 🔵 PHP ☆☆
+### Fullstack
+- 🟨 JavaScript ☆☆☆
+- 🔶 Git ☆☆☆
+### Frontend
+- 🔰 HTML & CSS ☆☆☆
+### Otros
+- 🗣 Inglés (nivel B2)
+- 🖼️ Diseño gráfico
+- 💻 Manejo de ofimática
+- 👥 Habilidades sociales
+- 🤔 Curiosidad
+- 👍🏻 Ganas de aprender
+
+## 🧪 Proyectos
+- 📚 Terminando mis estudios universitarios
+- 💡 Consolidándome como programador autodidacta
+- 🔎 Buscando oportunidades laborales
+- 🌱 Creando mi marca personal
+- 🌐 Explorando nuevos campos
+
+## 📫 RRSS
+- 👔 [LinkedIn](https://linkedin.com/in/joscasvaz)
 - 🐦 [Twitter](https://instagram.com/joscasvaz)
-- 📷 [Instagram](https://linkedin.com/in/joscasvaz)
-
-<!---
-joscasvaz/joscasvaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📷 [Instagram](https://twitter.com/joscasvaz)
