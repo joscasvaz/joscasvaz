@@ -1,7 +1,7 @@
 # ℹ️ About
 - 👋 Hi, I’m @joscasvaz
 - 👀 I’m interested in growing up as software developer to start my carreer
-- 🌱 I’m currently learning some frontend development while finishing my university degree
+- 🌱 I’m currently learning some fullstack development while finishing my university degree
 - 💞️ I’m looking to collaborate on cool trendy proyects
 
 ## 📫 Contact
