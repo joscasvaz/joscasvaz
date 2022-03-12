@@ -32,5 +32,5 @@
 
 ## 📫 RRSS
 - 👔 [LinkedIn](https://linkedin.com/in/joscasvaz)
-- 🐦 [Twitter](https://instagram.com/joscasvaz)
-- 📷 [Instagram](https://twitter.com/joscasvaz)
+- 🐦 [Twitter](https://twitter.com/joscasvaz)
+- 📷 [Instagram](https://instagram.com/joscasvaz)
