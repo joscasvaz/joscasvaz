@@ -12,7 +12,7 @@
 - 🔵 PHP ☆☆
 ### Fullstack
 - 🟨 JavaScript ☆☆☆
-- 🔶 Git ☆☆☆
+- 🔶 Git ☆☆☆☆
 ### Frontend
 - 🔰 HTML & CSS ☆☆☆
 ### Otros
