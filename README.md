@@ -31,6 +31,4 @@
 - 🌐 Explorando nuevos campos
 
 ## 📫 RRSS
-- 👔 [LinkedIn](https://linkedin.com/in/joscasvaz)
-- 🐦 [Twitter](https://twitter.com/joscasvaz)
-- 📷 [Instagram](https://instagram.com/joscasvaz)
+- 🔗 www.lintr.ee/josecastrovazquez
