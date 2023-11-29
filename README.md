@@ -16,7 +16,7 @@
 ### Frontend
 - 🔰 HTML & CSS ☆☆☆
 ### Otros
-- 🗣 Inglés (nivel B2)
+- 🗣 Inglés (nivel C1)
 - 🖼️ Diseño gráfico
 - 💻 Manejo de ofimática
 - 👥 Habilidades sociales
