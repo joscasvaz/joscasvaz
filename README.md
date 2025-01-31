@@ -1,7 +1,7 @@
 # 👋🏻 ¡Hola! Bienvenido a mi GitHub
 
 ## ℹ️ **Sobre mí**
-Soy Jose Ignacio Castro Vázquez, un chico de 25 años. Mis conocidos me suelen describir como una persona sociable, simpática y con sentido del humor. Soy un trabajador muy comprometido y responsable. Disfruto mucho desarrollando software en equipo y me gusta aprender de mis compañeros.
+Soy Jose Ignacio Castro Vázquez, un chico de 25 años. Me caracterizo por ser una persona proactiva, responsable y resolutiva. Soy muy sociable y disfruto mucho trabajando en equipo, siempre abierto a aprender cosas nuevas de mis compañeros. Considero que las buenas prácticas y el orden son fundamentales en un proyecto, y pongo todo mi empeño en seguirlas con mucho rigor.
 
 ## 🎓 **Formación**
 ### Grado en Ingeniería Informática Software
@@ -12,12 +12,12 @@ A falta de entregar mi TFG, actualmente curso esta titulación. Ha sido una etap
 Viajé a Inglaterra en primero de bachillerato, alojándome en casa de una familia británica en Sheffield. Mi compañero de intercambio, Tom, vino a Sevilla unos meses más tarde. Visitamos muchos lugares, pero disfruté especialmente de Manchester y York.
 ### Bachillerato Tecnológico Bilingüe
 #### _IES Murillo_
-Desde el instituto comencé a perfilar mi carrera hacia el ámbito de la ingeniería. Cursé la opción bilingüe, lo que supuso que me examinara de la asignatura de filosofía en español e inglés. Mi nota media fue 7,7.
+Desde el instituto comencé a perfilar mi carrera hacia el ámbito de la ingeniería. Cursé la opción bilingüe, lo que supuso que me examinara de la asignatura de filosofía en español e inglés. Las optativas cursadas fueron TIC, dibujo técnico e ingeniería industrial.
 
 ## 🧰 **Experiencia**
 ### Junior Developer | Intern
 #### _Copyright Clearence Center_
-Disfruté de unas prácticas de 6 meses con esta empresa estadounidense. Realicé el mantenimiento de un CMS serverless programado en Java y desplegado en AWS, formando parte de un equipo ágil.
+Disfruté de unas prácticas de 6 meses con esta empresa estadounidense. Estuve colaborando en el mantenimiento de un CMS serverless programado en Java y desplegado en AWS, formando parte de un equipo ágil.
 
 ## 🔧 **Tecnologías**
 ### Lenguajes
