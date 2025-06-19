@@ -15,6 +15,9 @@ Viajé a Inglaterra en primero de bachillerato, alojándome en casa de una famil
 Desde el instituto comencé a perfilar mi carrera hacia el ámbito de la ingeniería. Cursé la opción bilingüe, lo que supuso que me examinara de la asignatura de filosofía en español e inglés. Las optativas cursadas fueron TIC, dibujo técnico e ingeniería industrial.
 
 ## 🧰 **Experiencia**
+### 24x7 Specialist
+#### Isotrol
+Actualmente me dedico a dar soporte a los clientes de Isotrol, colaborando al mantenimiento de los SCADAs que supervisan y controlan plantas de energías renovables en todo el mundo.
 ### Junior Developer | Intern
 #### _Copyright Clearence Center_
 Disfruté de unas prácticas de 6 meses con esta empresa estadounidense. Estuve colaborando en el mantenimiento de un CMS serverless programado en Java y desplegado en AWS, formando parte de un equipo ágil.
