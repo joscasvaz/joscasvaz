@@ -1,12 +1,12 @@
 # 👋🏻 ¡Hola! Bienvenido a mi GitHub
 
 ## ℹ️ **Sobre mí**
-Soy Jose Ignacio Castro Vázquez, un chico de 25 años. Me caracterizo por ser una persona proactiva, responsable y resolutiva. Soy muy sociable y disfruto mucho trabajando en equipo, siempre abierto a aprender cosas nuevas de mis compañeros. Considero que las buenas prácticas y el orden son fundamentales en un proyecto, y pongo todo mi empeño en seguirlas con mucho rigor.
+Soy Jose Ignacio Castro Vázquez, un chico de 26 años. Me caracterizo por ser una persona proactiva, responsable y resolutiva. Soy muy sociable y disfruto mucho trabajando en equipo, siempre abierto a aprender cosas nuevas de mis compañeros. Considero que las buenas prácticas y el orden son fundamentales en un proyecto, y pongo todo mi empeño en seguirlas con mucho rigor.
 
 ## 🎓 **Formación**
 ### Grado en Ingeniería Informática Software
 #### _Universidad de Sevilla_
-A falta de entregar mi TFG, actualmente curso esta titulación. Ha sido una etapa que me ha ayudado a convertirme en un profesional muy resiliente. Entre otros trabajos desempeñados en la carrera destacan la creación de un matchmaker para practicar volley y mi TFG en el que, junto a un compañero, estoy creando un ERP basándonos en los requisitos de un cliente real: una clínica dental.
+Mi paso por este grado ha sido una etapa que me ha ayudado a convertirme en un profesional muy resiliente. Entre otros trabajos desempeñados en la carrera destacan la creación de un matchmaker para practicar volley y mi TFG en el que, junto a un compañero, hemos desarrollado un ERP basándonos en los requisitos de un cliente real: una clínica dental.
 ### Intercambio lingüístico
 #### _Thomas Rotherham College_
 Viajé a Inglaterra en primero de bachillerato, alojándome en casa de una familia británica en Sheffield. Mi compañero de intercambio, Tom, vino a Sevilla unos meses más tarde. Visitamos muchos lugares, pero disfruté especialmente de Manchester y York.
