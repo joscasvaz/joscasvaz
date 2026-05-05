@@ -17,7 +17,7 @@ Desde el instituto comencé a perfilar mi carrera hacia el ámbito de la ingenie
 ## 🧰 **Experiencia**
 ### 24x7 Specialist
 #### Isotrol
-Actualmente me dedico a dar soporte a los clientes de Isotrol, colaborando al mantenimiento de los SCADAs que supervisan y controlan plantas de energías renovables en todo el mundo.
+Desde abril de 2025 me dedico a dar soporte a los clientes de Isotrol, colaborando al mantenimiento de los SCADAs que supervisan y controlan plantas de energías renovables en todo el mundo.
 ### Junior Developer | Intern
 #### _Copyright Clearence Center_
 Disfruté de unas prácticas de 6 meses con esta empresa estadounidense. Estuve colaborando en el mantenimiento de un CMS serverless programado en Java y desplegado en AWS, formando parte de un equipo ágil.
